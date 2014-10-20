@@ -11,6 +11,6 @@ Any government agency interested in streamlining the process around incentives s
 
 **How to fork and run PrimerPeso?**
 
-Information on how to run PrimerPeso is available on our [Github Repository](https://github.com/codeforamerica/primerpeso/blob/master/README.md)
+Information on how to run PrimerPeso is available in our [Github Repository](https://github.com/codeforamerica/primerpeso/blob/master/README.md)
 
 

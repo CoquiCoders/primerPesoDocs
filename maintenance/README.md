@@ -6,7 +6,7 @@ We are transfering the:
 
 - ownership of all third party services used by the application (i.e. Mandrill ) to the CIO of Puerto Rico, our main city partner.
 - access to google analytics
-- access to registration and renewal of name
+- access to renewal of name
 - access to contact form for new agencies that want to participate
 - access to feedback tool: uservoice
 

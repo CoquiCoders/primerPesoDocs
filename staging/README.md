@@ -1,8 +1,10 @@
 # Environments
 
-**Staging**
+Our application runs in 3 environments: local, development and staging.
 
-Every Heroku app runs in at least two environments: on the Heroku platform (we’ll call that production) and on your local machine (development). If more than one person is working on the app, then you’ve got multiple development environments - one per machine, usually. Usually, each developer will also have a test environment for running tests.
+---------------
+
+Every Heroku app runs in at least two environments: on the Heroku platform (we’ll call that **production**) and on your local machine (**development**). If more than one person is working on the app, then you’ve got multiple development environments - one per machine, usually. Usually, each developer will also have a test environment for running tests.
 
 This separation keeps changes from breaking things. You write code and check the site in development, but you run your tests in the test environment to keep them from overwriting your development database.
 
