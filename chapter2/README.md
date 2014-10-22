@@ -110,4 +110,8 @@ Some common issues that could give you errors when you run the project, and how 
 * @MrMaksimize or @chrisrodz broke something (ping us to fix it)
 
 
+----
 
+How to get started
+
+[Demo](https://www.youtube.com/watch?v=XR3NhLlrdmM)

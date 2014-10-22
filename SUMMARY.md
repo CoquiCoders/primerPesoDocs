@@ -12,7 +12,7 @@
 * [Integration](integration/README.md)
 * [Maintenance](maintenance/README.md)
 * [Tech Infraestructure Costs](hosting/README.md)
-   * [Hosting](hosting/hosting.md)
+   * [Services & Costs](hosting/hosting.md)
 * [Name and renewals](name_and_renewals/README.md)
 * [More information about PrimerPeso](more_information_about_primerpeso/README.md)
 * [Recommended future features](recommended_future_features/README.md)

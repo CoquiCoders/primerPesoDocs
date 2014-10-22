@@ -22,6 +22,16 @@ The estimated costs for a year of usage are:
 | Heroku | 35 USD |
 | Namecheap | 23 USD |
 
+------
+
+**Simple Storage Service: S3**
+
+----
 
 
+**Analytics for Developers: Keen**
+
+----
+
+**Service: Google Analytics**
 
