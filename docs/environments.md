@@ -14,9 +14,3 @@ Unfortunately, this approach breaks down as the environments become less similar
 
 The solution is to have a **staging** environment (third environment) that is as similar to production as is possible. This can be achieved by creating a second Heroku application that hosts your staging application. With staging, you can check your code in a production-like setting before having it affect your actual users. As you already deploy with git, setting up and managing these multiple remote environments is easy.
 
-How to install staging:
-
-**MAX**
-
-http://bizwallet-staging.herokuapp.com/
-
