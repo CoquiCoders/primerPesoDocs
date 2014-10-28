@@ -7,7 +7,7 @@
 * [Technology](docs/technology.md)
 * [How to get started?](docs/getting_started.md)
 * [Design Guide](docs/design_guide.md)
-* [Environments](docs/environments.md)
+* [Environments And Development Process](docs/environments.md)
 * [Analytics](docs/analytics.md)
 * [Integration](docs/integration.md)
 * [Maintenance](docs/maintenance.md)
