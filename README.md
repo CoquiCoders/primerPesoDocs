@@ -11,7 +11,7 @@ Team Puerto Rico at Code for America created this gitbook to share all needed do
 
  Index:
 
-* *Step 1: What is it?*
+* Step 1: What is it?
 
 * Step 2: Technology used and built on
 

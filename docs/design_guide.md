@@ -32,4 +32,3 @@ These are Google Web Fonts and available for download here:
 Follow the instructions on the Google WebFonts site to install the fonts in your stylesheet (they are already included in the stylesheet, but there are instructions for downloading them to your own computer in order to create design elements away from the web.)
 
 # Interface Styles
-
