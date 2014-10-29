@@ -14,7 +14,7 @@ We intentionally chose a pastel, clean color palette both to reflect the hues of
 
 # Logo & Color Palette
 
-The logo is a combination of a "1" and a "P" (meaning of course Primer Peso or First Dollar).
+The logo is a combination of a "1" and a "P" (meaning of course Primer Peso or 'First Dollar').
 
 This is the main logo as it is used on the web. It should be placed on a white or light background.
 
