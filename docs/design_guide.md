@@ -4,8 +4,6 @@ This Guide serves as a guide to any agency who is working with PrimerPeso. It sh
 
 # Overall Look & Feel Strategy
 
-
-
 PrimerPeso as a web application and a joint project between Code for America and the government of Puerto Rico exists in the government space. In our user research we found that citizens in Puerto Rico had a negative connotation with past interactions with government sites and we wanted to counteract that.
 
 With PrimerPeso, we seek to deliver a pleasant, easy, and informative experience to people and the design facilitates that with the use of an a-typical, fresh color palette, seamless user interactions, and clear, easy-to-read typography.

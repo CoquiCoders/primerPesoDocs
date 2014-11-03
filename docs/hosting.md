@@ -14,7 +14,7 @@ Your first 12,000 emails per month are always free. After that, you pay on a per
 
 
 --------
-The estimated costs for a year of usage are:
+The estimated costs for an year of usage are:
 
 | Service | Cost |
 | -- | -- |
