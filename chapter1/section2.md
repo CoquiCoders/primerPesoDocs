@@ -18,23 +18,23 @@ The logo is a combination of a "1" and a "P" (meaning Primer Peso or 'First Doll
 
 This is the main logo as it is used on the web. It should be placed on a white or light background.
 
-![alt](https://www.dropbox.com/s/vxk7ni2h9sdtytd/logo_pp.png?dl=0)
+![alt](https://dl.dropboxusercontent.com/s/vxk7ni2h9sdtytd/logo_pp.png?dl=0)
 
 Other variations of the logo are possible for promotional purposes. Particularly the theme of a dollar with the PP logo.
 
-![alt](https://www.dropbox.com/s/vxk7ni2h9sdtytd/logo_pp.png?dl=0)
+![alt](https://dl.dropboxusercontent.com/s/hu3qyl95xz5esle/PrimerPeso_cover.png?dl=0)
 
 As well as a framed dollar, symbolizing the good luck of starting your new business.
 
-![alt](https://www.dropbox.com/s/vxk7ni2h9sdtytd/logo_pp.png?dl=0)
+![alt](https://dl.dropboxusercontent.com/s/xo3anzvlwxf1dqm/Framed-PrimerPeso.png?dl=0)
 
 ## Color Palette
 
 The color palette of PrimerPeso centers around a blue-green. The color palette also incorporates somber, secure colors - navy, and grays - because we want to communicate to our users that this is a safe application, especially for dealing with financial information.
 
-[Link to image of color palette]
+![alt](https://dl.dropboxusercontent.com/s/llnaww87gxzhr20/Color%20Palette.png?dl=0)
 
-Color values are available in hex and rgb for designing with the web.
+Color values are available in hex values for designing with the web.
 
 ## Typography & Font Usage
 
@@ -53,9 +53,9 @@ The priority for font usage is readability, so we stick to dark colors for the f
 
 There should be a clear hierarchy on every page between title, important action information, subtitles, and paragraph texts.
 
-Here is an example hierarcy:
+Here is an example hierarchy:
 
-![alt]()
+![alt](https:/dl.dropboxusercontent.com/s/pcqlz4ha1wwnho0/Font%20Usage%20Example%20-%20Result%20Page.png?dl=0)
 
 For specific details of font sizes, please refer to the style guide.
 
@@ -67,7 +67,7 @@ For both of these, and the interface as a whole, we follow the advice that "less
 
 The navbar, over the course of the development of the application, became minimalist in order to let the page's content be the focus. Also - there are not many options in the navbar, so it does not need to draw attention to itself.
 
-![alt]()
+![alt](https://dl.dropboxusercontent.com/s/z332pr8ttfhqakn/Navbar%20Screenshot.png?dl=0)
 
 ## Questions About Usage
 
