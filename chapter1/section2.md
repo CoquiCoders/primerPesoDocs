@@ -69,4 +69,8 @@ The navbar, over the course of the development of the application, became minima
 
 ![alt]()
 
+## Questions About Usage
+
+For any questions about the style guide and its usage, please contact Ainsley at ainsley.wagoner @ gmail.com
+
 
