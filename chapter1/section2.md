@@ -51,8 +51,13 @@ The priority for font usage is readability, so we stick to dark colors for the f
 
 ###Font Sizes and usage
 
-For titles and headers,
+There should be a clear hierarchy on every page between title, important action information, subtitles, and paragraph texts.
 
+Here is an example hierarcy:
+
+![alt]()
+
+For specific details of font sizes, please refer to the style guide.
 
 ## Interface Styles
 
@@ -62,5 +67,6 @@ For both of these, and the interface as a whole, we follow the advice that "less
 
 The navbar, over the course of the development of the application, became minimalist in order to let the page's content be the focus. Also - there are not many options in the navbar, so it does not need to draw attention to itself.
 
+![alt]()
 
 
