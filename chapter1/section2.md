@@ -2,6 +2,8 @@
 
 This Guide serves as a guide to any agency who is working with PrimerPeso. It should allow for updating the brand while establishing an overall framework.
 
+[Download Style Guide](http://cl.ly/YEIv/StyleGuide.png)
+
 ## Overall Look & Feel Strategy
 
 PrimerPeso as a web application and a joint project between Code for America and the government of Puerto Rico exists in the government space. In our user research we found that citizens in Puerto Rico had a negative connotation with past interactions with government sites and we wanted to counteract that.
@@ -10,18 +12,29 @@ With PrimerPeso, we seek to deliver a pleasant, easy, and informative experience
 
 We intentionally chose a pastel, clean color palette both to reflect the hues of the island of Puerto Rico but also to set the tone that this will be a new and different experience with a government web interface.
 
-## Logo & Color Palette
+## Logo
 
 The logo is a combination of a "1" and a "P" (meaning Primer Peso or 'First Dollar').
 
 This is the main logo as it is used on the web. It should be placed on a white or light background.
 
-[PrimerPeso Logo]
+![alt](https://www.dropbox.com/s/vxk7ni2h9sdtytd/logo_pp.png?dl=0)
 
-Other variations of the logo are possible for promotional purposes. Particularly the theme of a dollar with the PP logo, as well as a framed dollar, symbolizing the good luck of starting your new business.
+Other variations of the logo are possible for promotional purposes. Particularly the theme of a dollar with the PP logo.
 
-[Download Style Guide](http://cl.ly/YEIv/StyleGuide.png)
+![alt](https://www.dropbox.com/s/vxk7ni2h9sdtytd/logo_pp.png?dl=0)
 
+As well as a framed dollar, symbolizing the good luck of starting your new business.
+
+![alt](https://www.dropbox.com/s/vxk7ni2h9sdtytd/logo_pp.png?dl=0)
+
+## Color Palette
+
+The color palette of PrimerPeso centers around a blue-green. The color palette also incorporates somber, secure colors - navy, and grays - because we want to communicate to our users that this is a safe application, especially for dealing with financial information.
+
+[Link to image of color palette]
+
+Color values are available in hex and rgb for designing with the web.
 
 ## Typography & Font Usage
 
@@ -36,8 +49,18 @@ Follow the instructions on the Google WebFonts site to install the fonts in your
 
 The priority for font usage is readability, so we stick to dark colors for the font and rather large font sizes to best communicate the information.
 
+###Font Sizes and usage
 
-# Interface Styles
+For titles and headers,
+
+
+## Interface Styles
+
+The main two features of PrimerPeso are the 11-question "wizard" that users fill out to determine what they are eligible for, and the results page with information about the various incentive programs.
+
+For both of these, and the interface as a whole, we follow the advice that "less is more." In other words, we want there to be plenty of white space so that the content is readable and takes center stage.
+
+The navbar, over the course of the development of the application, became minimalist in order to let the page's content be the focus. Also - there are not many options in the navbar, so it does not need to draw attention to itself.
 
 
 
