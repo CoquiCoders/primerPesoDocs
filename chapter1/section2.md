@@ -2,7 +2,7 @@
 
 This Guide serves as a guide to any agency who is working with PrimerPeso. It should allow for updating the brand while establishing an overall framework.
 
-[Download Style Guide](http://cl.ly/YEIv/StyleGuide.png)
+[Download Style Guide](https://www.dropbox.com/s/hxyz2g50nuwwx9j/StyleGuide.png?dl=0)
 
 ## Overall Look & Feel Strategy
 
