@@ -16,9 +16,9 @@ In order to have a consistent conversation let's define two terms:
 Most of this is accurate, but I might make up some facts to illustrate.
 Let's imagine that I am the developer of a shiny new platform that will help business owners find financing and education opportunities from a government.  I am aggregating various opportunities provided by various organizations (in the context of Puerto Rico, we have Economic Development Bank (BDE), Tourism, Film Comission and Company of Export and Commerce (CCE) to name a few).
 
-When someone seeking for financing fills out some basic information, my application (provider) is going to send a lead to the appropriate department (consumer), based on the programs my user indicates she/he wants to know more about.  BDE and CCE are running two different implementations Oof Microsoft Dynamics CRM. I'm not sure what Tourism is running but I know for a fact that it's not open source or Microsoft Dynamics.  I'm guessing something share point based.
+When someone seeking for financing fills out some basic information, my application (provider) is going to send a lead to the appropriate department (consumer), based on the programs my user indicates she/he wants to know more about.  BDE and CCE are running two different implementations of Microsoft Dynamics CRM. Let's imagine Tourism is running something sharepoint-based.
 
-Add about 15 more departments or agencies to this scenario and you see where I'm going.
+Add about 15 more departments or agencies to this scenario and you see where I'm going...
 
 ### A non viable solution.
 The most obvious solution would be to develop your application (the provider) as an API server.  Each of the departments (consumers) would have to write code that runs periodically that polls your server and see if there's any new leads related to them.
