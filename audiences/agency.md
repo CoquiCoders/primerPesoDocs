@@ -18,7 +18,7 @@ In order to add an agency you need to signup with an username and password
 
 
 
-*  [How to add a new agency](http://www.primerpeso.com/admin/agency/new)
+*  [How to add a new agency - need to be registered](http://www.primerpeso.com/admin/agency/new)
 
 
 
@@ -26,7 +26,7 @@ In order to add an agency you need to signup with an username and password
 
 In order to add a requirement you also need to be signed in.
 
-* [Add new requirement](http://www.primerpeso.com/admin/requirement/new)
+* [Add new requirement - need to be registered](http://www.primerpeso.com/admin/requirement/new)
 
 
 
