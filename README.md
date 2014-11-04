@@ -13,19 +13,19 @@ Team Puerto Rico at Code for America created this gitbook to share all needed do
 
 * Step 1: What is it?
 
-* Step 2: Technology used and built on
+* Step 2: Users
 
-* Step 3: The Design style Guide to keep it updated
+* Step 3: Technology used and built on
 
-* Step 4: Users
+* Step 4: How to get started?
 
-* Step 5: How to test it?
+* Step 5: The Design style Guide to keep it updated
 
-* Step 6: Which analytics do we measure?
+* Step 6: Environments
 
 * Step 7: Integrate PrimerPeso in current systems
 
-* Step 8: Costs
+* Step 8: Hosting and other Costs
 
 * Step 9: Questions?
 
