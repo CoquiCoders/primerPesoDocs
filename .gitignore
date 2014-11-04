@@ -1,3 +1,10 @@
-node_modules
-.grunt
-/_book/
+*
+!LICENSE
+!README.md
+!SUMMARY.md
+!additional_docs
+!assets
+!audiences
+!book.json
+!cover.jpg
+!docs
